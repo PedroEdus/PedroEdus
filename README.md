@@ -9,6 +9,8 @@ Desenvolvo soluções de dados que conectam sistemas operacionais a ambientes an
 
 Minha trajetória começou em Business Intelligence e evoluiu para a engenharia por trás dos produtos analíticos: entender as fontes, estruturar a ingestão, definir granularidade e chaves, construir transformações confiáveis e preparar os dados para consumo.
 
+**Experiência:** Brasil Terrenos / Buriti Empreendimentos (atual) · EBM Desenvolvimento Imobiliário (anterior)
+
 [Portfólio ↗](https://pedroedus.github.io/portifolio/) · [Repositórios ↗](https://github.com/PedroEdus?tab=repositories)
 
 ---
@@ -28,6 +30,8 @@ Gosto especialmente dos problemas que não são resolvidos apenas com um dashboa
 ### 01 — Plataforma de dados para Marketing Analytics
 **Integração multiorigem · Pipelines ETL/ELT · Automação**
 
+*Brasil Terrenos / Buriti Empreendimentos*
+
 Integração de dados de **Meta Ads, Google Ads, GA4 e Publya** para centralizar informações de aquisição e desempenho de marketing em um ambiente analítico.
 
 **Desafios e implementação**
@@ -46,6 +50,8 @@ Integração de dados de **Meta Ads, Google Ads, GA4 e Publya** para centralizar
 ### 02 — Engenharia de dados para Conciliação Financeira
 **Investigação de fontes · Relacionamento de dados · Regras de negócio**
 
+*Brasil Terrenos / Buriti Empreendimentos*
+
 Trabalho de descoberta e estruturação das fontes de um **ERP corporativo** para apoiar uma solução analítica de conciliação financeira, voltada à identificação de contas e movimentos que exigem atenção dos analistas.
 
 **Desafios e trabalho realizado**
@@ -62,6 +68,8 @@ Trabalho de descoberta e estruturação das fontes de um **ERP corporativo** par
 
 ### 03 — Arquitetura de dados para Análise de Inadimplência
 **Microsoft Fabric · Lakehouse · Modelagem histórica**
+
+*Brasil Terrenos / Buriti Empreendimentos*
 
 Estruturação de uma solução de dados para análise de inadimplência a partir de informações do **ERP UAU**, com foco na confiabilidade das fontes, na evolução histórica dos indicadores e na preparação de uma base consistente para consumo analítico.
 
@@ -104,4 +112,4 @@ Power BI · DAX · Streamlit · Git
 
 **Engenharia de Dados, para mim, é construir uma base confiável entre a origem da informação e a decisão que depende dela.**
 
-> **Sobre os cases:** projetos corporativos são apresentados em nível de arquitetura e experiência profissional. Implementações públicas devem usar código autorizado ou reconstruções independentes com dados sintéticos.
+> **Sobre os cases:** projetos corporativos (Brasil Terrenos / Buriti Empreendimentos e EBM Desenvolvimento Imobiliário) são apresentados em nível de arquitetura e experiência profissional. Implementações públicas devem usar código autorizado ou reconstruções independentes com dados sintéticos.
